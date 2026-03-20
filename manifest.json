@@ -32783,6 +32783,139 @@
         "blob/22f5e147b5d168d5dc4f04816ec1d9e1340b8f31.nq.gz",
         "blob/d9db0b14b0e11ccb0e5ae441432498d77d0670fa.nq.gz",
         "blob/0b8c5ced5ddfdf5fee79a4681b506f596dee93e1.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/73c5533e665743d305e266eee134c48d88d2dcfd.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/73c5533e665743d305e266eee134c48d88d2dcfd.nq.gz",
+      "repolex": "aggregate/repolex/73c5533e665743d305e266eee134c48d88d2dcfd.nq.gz",
+      "dep": "dep/73c5533e665743d305e266eee134c48d88d2dcfd.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "buffer-crc32",
+          "githubOrg": "brianloveswords",
+          "githubRepo": "buffer-crc32"
+        },
+        {
+          "packageName": "connect",
+          "githubOrg": "senchalabs",
+          "githubRepo": "connect"
+        },
+        {
+          "packageName": "commander",
+          "githubOrg": "tj",
+          "githubRepo": "commander.js"
+        },
+        {
+          "packageName": "debug",
+          "githubOrg": "debug-js",
+          "githubRepo": "debug"
+        },
+        {
+          "packageName": "escape-html",
+          "githubOrg": "component",
+          "githubRepo": "escape-html"
+        },
+        {
+          "packageName": "methods",
+          "githubOrg": "jshttp",
+          "githubRepo": "methods"
+        },
+        {
+          "packageName": "mkdirp",
+          "githubOrg": "isaacs",
+          "githubRepo": "node-mkdirp"
+        },
+        {
+          "packageName": "parseurl",
+          "githubOrg": "pillarjs",
+          "githubRepo": "parseurl"
+        },
+        {
+          "packageName": "proxy-addr",
+          "githubOrg": "jshttp",
+          "githubRepo": "proxy-addr"
+        },
+        {
+          "packageName": "range-parser",
+          "githubOrg": "jshttp",
+          "githubRepo": "range-parser"
+        },
+        {
+          "packageName": "send",
+          "githubOrg": "pillarjs",
+          "githubRepo": "send"
+        },
+        {
+          "packageName": "vary",
+          "githubOrg": "jshttp",
+          "githubRepo": "vary"
+        },
+        {
+          "packageName": "cookie",
+          "githubOrg": "jshttp",
+          "githubRepo": "cookie"
+        },
+        {
+          "packageName": "fresh",
+          "githubOrg": "jshttp",
+          "githubRepo": "fresh"
+        },
+        {
+          "packageName": "cookie-signature",
+          "githubOrg": "visionmedia",
+          "githubRepo": "node-cookie-signature"
+        },
+        {
+          "packageName": "merge-descriptors",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "merge-descriptors"
+        },
+        {
+          "packageName": "istanbul",
+          "githubOrg": "gotwarlost",
+          "githubRepo": "istanbul"
+        },
+        {
+          "packageName": "mocha",
+          "githubOrg": "mochajs",
+          "githubRepo": "mocha"
+        },
+        {
+          "packageName": "should",
+          "githubOrg": "shouldjs",
+          "githubRepo": "should.js"
+        },
+        {
+          "packageName": "ejs",
+          "githubOrg": "mde",
+          "githubRepo": "ejs"
+        },
+        {
+          "packageName": "jade",
+          "githubOrg": "jadejs",
+          "githubRepo": "jade"
+        },
+        {
+          "packageName": "hjs",
+          "githubOrg": "nullfirm",
+          "githubRepo": "hjs"
+        },
+        {
+          "packageName": "marked",
+          "githubOrg": "markedjs",
+          "githubRepo": "marked"
+        },
+        {
+          "packageName": "connect-redis",
+          "githubOrg": "tj",
+          "githubRepo": "connect-redis"
+        },
+        {
+          "packageName": "supertest",
+          "githubOrg": "ladjs",
+          "githubRepo": "supertest"
+        }
       ]
     }
   ],
