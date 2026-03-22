@@ -1,0 +1,29 @@
+{
+  "commit": "bef6f208d16b96638cbfafff5ef516e278608e81",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/bef6f208d16b96638cbfafff5ef516e278608e81.nq.gz",
+      "size_bytes": 847388
+    },
+    "dep": {
+      "path": "dep/bef6f208d16b96638cbfafff5ef516e278608e81.nq.gz",
+      "size_bytes": 463
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "connect",
+      "packageVersion": "3.7.0",
+      "githubOrg": "senchalabs",
+      "githubRepo": "connect",
+      "githubCommit": "fa8916e6350e01262e86ccee82f490c65e04c728"
+    },
+    {
+      "packageName": "qs",
+      "packageVersion": "6.9.9",
+      "githubOrg": "ljharb",
+      "githubRepo": "qs",
+      "githubCommit": "05b0e9cf2251a66cb68a2823cba930d184267fc9"
+    }
+  ]
+}
