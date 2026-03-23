@@ -37745,7 +37745,150 @@
         "aggregate/ast/e0afda444f776ddec94ebdae8e1ed7501e26fb22.nq.gz"
       ],
       "lsp": "aggregate/lsp/e0afda444f776ddec94ebdae8e1ed7501e26fb22.nq.gz",
-      "repolex": "aggregate/repolex/e0afda444f776ddec94ebdae8e1ed7501e26fb22.nq.gz"
+      "repolex": "aggregate/repolex/e0afda444f776ddec94ebdae8e1ed7501e26fb22.nq.gz",
+      "dep": "dep/e0afda444f776ddec94ebdae8e1ed7501e26fb22.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "connect",
+          "packageVersion": "3.7.0",
+          "githubOrg": "senchalabs",
+          "githubRepo": "connect",
+          "githubCommit": "fa8916e6350e01262e86ccee82f490c65e04c728"
+        },
+        {
+          "packageName": "commander",
+          "packageVersion": "9.5.0",
+          "githubOrg": "tj",
+          "githubRepo": "commander.js",
+          "githubCommit": "7a5bd0626a5a2e6353052de0a6985480e51bbb9b"
+        },
+        {
+          "packageName": "range-parser",
+          "packageVersion": "1.2.1",
+          "githubOrg": "jshttp",
+          "githubRepo": "range-parser",
+          "githubCommit": "0f56ff8d4b579599f9f225f0a19f4ef1628c585f"
+        },
+        {
+          "packageName": "mkdirp",
+          "packageVersion": "3.0.1",
+          "githubOrg": "isaacs",
+          "githubRepo": "node-mkdirp",
+          "githubCommit": "6fc29774a008f41d96b34523d6aae543ecb46cd1"
+        },
+        {
+          "packageName": "cookie",
+          "packageVersion": "1.1.1",
+          "githubOrg": "jshttp",
+          "githubRepo": "cookie",
+          "githubCommit": "1b89eec4e33256ac31962f4c0d6e711fff478803"
+        },
+        {
+          "packageName": "buffer-crc32",
+          "packageVersion": "1.0.0-RC9",
+          "githubOrg": "brianloveswords",
+          "githubRepo": "buffer-crc32",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "fresh",
+          "packageVersion": "2.0.0",
+          "githubOrg": "jshttp",
+          "githubRepo": "fresh",
+          "githubCommit": "f185ef1376c0337d366f9e35bda92b053983fd81"
+        },
+        {
+          "packageName": "methods",
+          "packageVersion": "1.1.2",
+          "githubOrg": "jshttp",
+          "githubRepo": "methods",
+          "githubCommit": "25d257d913f1b94bd2d73581521ff72c81469140"
+        },
+        {
+          "packageName": "send",
+          "packageVersion": "1.2.1",
+          "githubOrg": "pillarjs",
+          "githubRepo": "send",
+          "githubCommit": "096a6148bea0b82ca974fe0016e6eac280869249"
+        },
+        {
+          "packageName": "cookie-signature",
+          "packageVersion": "1.2.2",
+          "githubOrg": "visionmedia",
+          "githubRepo": "node-cookie-signature",
+          "githubCommit": "b7bd4cb9500bfa5e696143f51d61e5f24f7a625d"
+        },
+        {
+          "packageName": "debug",
+          "packageVersion": "4.4.3",
+          "githubOrg": "debug-js",
+          "githubRepo": "debug",
+          "githubCommit": "6b2c5fbdb7d414483d9e306ef234acb4cd7ea67c"
+        },
+        {
+          "packageName": "ejs",
+          "packageVersion": "5.0.1",
+          "githubOrg": "mde",
+          "githubRepo": "ejs",
+          "githubCommit": "f9ab0b7d9437de643f1c63896271307708810a77"
+        },
+        {
+          "packageName": "mocha",
+          "packageVersion": "9.2.2",
+          "githubOrg": "mochajs",
+          "githubRepo": "mocha",
+          "githubCommit": "24b5243514fee35bb78cf81d7fa541112a566a22"
+        },
+        {
+          "packageName": "jade",
+          "packageVersion": "1.9.2",
+          "githubOrg": "jadejs",
+          "githubRepo": "jade",
+          "githubCommit": "ce1aa6baccffa25f22161792d75cb9d290b116f6"
+        },
+        {
+          "packageName": "hjs",
+          "packageVersion": "0.0.6",
+          "githubOrg": "nullfirm",
+          "githubRepo": "hjs",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "stylus",
+          "packageVersion": "0.9.2",
+          "githubOrg": "stylus",
+          "githubRepo": "stylus",
+          "githubCommit": "2435224d99400c40520f68d7879d84249b9201fa"
+        },
+        {
+          "packageName": "should",
+          "packageVersion": "9.0.2",
+          "githubOrg": "shouldjs",
+          "githubRepo": "should.js",
+          "githubCommit": "cd73f3f6f87abad5e11519250006d1d3b7a6934b"
+        },
+        {
+          "packageName": "connect-redis",
+          "packageVersion": "9.0.0",
+          "githubOrg": "tj",
+          "githubRepo": "connect-redis",
+          "githubCommit": "473bc4abdb5102e89482dc4904e3099009c7be1a"
+        },
+        {
+          "packageName": "marked",
+          "packageVersion": "9.1.6",
+          "githubOrg": "markedjs",
+          "githubRepo": "marked",
+          "githubCommit": "86e0eb5485a950b5ddbe542c1c239245f15e3415"
+        },
+        {
+          "packageName": "supertest",
+          "packageVersion": "7.2.2",
+          "githubOrg": "ladjs",
+          "githubRepo": "supertest",
+          "githubCommit": "d7997513dcfb2f918e617f48ea4d56006aa0c3c3"
+        }
+      ]
     },
     {
       "commit": "f1c46f51e5a99413addf4b6eaebf2714fe841669",
