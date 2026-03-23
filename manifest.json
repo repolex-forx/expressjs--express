@@ -31627,7 +31627,101 @@
         "aggregate/ast/5c04f85f93df5ca1dea84683509d4954a4b4204c.nq.gz"
       ],
       "lsp": "aggregate/lsp/5c04f85f93df5ca1dea84683509d4954a4b4204c.nq.gz",
-      "repolex": "aggregate/repolex/5c04f85f93df5ca1dea84683509d4954a4b4204c.nq.gz"
+      "repolex": "aggregate/repolex/5c04f85f93df5ca1dea84683509d4954a4b4204c.nq.gz",
+      "dep": "dep/5c04f85f93df5ca1dea84683509d4954a4b4204c.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "connect",
+          "packageVersion": "3.7.0",
+          "githubOrg": "senchalabs",
+          "githubRepo": "connect",
+          "githubCommit": "fa8916e6350e01262e86ccee82f490c65e04c728"
+        },
+        {
+          "packageName": "mime",
+          "packageVersion": "4.1.0",
+          "githubOrg": "broofa",
+          "githubRepo": "mime",
+          "githubCommit": "a3c97a312e40f6ce7157742f4b1f5fd00702422a"
+        },
+        {
+          "packageName": "qs",
+          "packageVersion": "6.9.9",
+          "githubOrg": "ljharb",
+          "githubRepo": "qs",
+          "githubCommit": "05b0e9cf2251a66cb68a2823cba930d184267fc9"
+        },
+        {
+          "packageName": "mkdirp",
+          "packageVersion": "3.0.1",
+          "githubOrg": "isaacs",
+          "githubRepo": "node-mkdirp",
+          "githubCommit": "6fc29774a008f41d96b34523d6aae543ecb46cd1"
+        },
+        {
+          "packageName": "ejs",
+          "packageVersion": "5.0.1",
+          "githubOrg": "mde",
+          "githubRepo": "ejs",
+          "githubCommit": "f9ab0b7d9437de643f1c63896271307708810a77"
+        },
+        {
+          "packageName": "expresso",
+          "packageVersion": "0.9.2",
+          "githubOrg": "visionmedia",
+          "githubRepo": "expresso",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "hamljs",
+          "packageVersion": "0.6.2",
+          "githubOrg": "visionmedia",
+          "githubRepo": "haml.js",
+          "githubCommit": "6a62b758f9999768392433b626580c8a685bf5ec"
+        },
+        {
+          "packageName": "jade",
+          "packageVersion": "1.9.2",
+          "githubOrg": "jadejs",
+          "githubRepo": "jade",
+          "githubCommit": "ce1aa6baccffa25f22161792d75cb9d290b116f6"
+        },
+        {
+          "packageName": "stylus",
+          "packageVersion": "0.9.2",
+          "githubOrg": "stylus",
+          "githubRepo": "stylus",
+          "githubCommit": "2435224d99400c40520f68d7879d84249b9201fa"
+        },
+        {
+          "packageName": "should",
+          "packageVersion": "9.0.2",
+          "githubOrg": "shouldjs",
+          "githubRepo": "should.js",
+          "githubCommit": "cd73f3f6f87abad5e11519250006d1d3b7a6934b"
+        },
+        {
+          "packageName": "express-messages",
+          "packageVersion": "1.0.1",
+          "githubOrg": "expressjs",
+          "githubRepo": "express-messages",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "node-markdown",
+          "packageVersion": "0.1.1",
+          "githubOrg": "andris9",
+          "githubRepo": "node-markdown",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "connect-redis",
+          "packageVersion": "9.0.0",
+          "githubOrg": "tj",
+          "githubRepo": "connect-redis",
+          "githubCommit": "473bc4abdb5102e89482dc4904e3099009c7be1a"
+        }
+      ]
     },
     {
       "commit": "0ac1ba527e75e700698bcb4dad5905cea80e29f5",
