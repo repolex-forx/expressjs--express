@@ -1,0 +1,51 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/expressjs/express/commit/e0afda444f776ddec94ebdae8e1ed7501e26fb22",
+  "@type": "git:Commit",
+  "git:hexsha": "e0afda444f776ddec94ebdae8e1ed7501e26fb22",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/expressjs/express"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/e0afda444f776ddec94ebdae8e1ed7501e26fb22.nq.gz",
+      "repolex:graphFileSize": 37685
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 2571550
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 1197
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 15957
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "issue",
+      "repolex:graphFilePath": "issue/issue.nq.gz",
+      "repolex:graphFileSize": 1925400
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 1062930
+    }
+  ],
+  "repolex:parseStatus": "parsed",
+  "repolex:parsedAt": "2026-03-29T21:57:50.845290+00:00",
+  "repolex:parserVersion": "0.1.0",
+  "git:tagName": "3.2.6"
+}
