@@ -31177,24 +31177,32 @@
       "dependencies": [
         {
           "packageName": "connect",
-          "packageVersion": "3.7.0",
+          "ecosystem": "NPM",
+          "version": "1.1.1 < 2.0.0",
           "githubOrg": "senchalabs",
           "githubRepo": "connect",
-          "githubCommit": "fa8916e6350e01262e86ccee82f490c65e04c728"
+          "githubUrl": "git+https://github.com/senchalabs/connect.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "mime",
-          "packageVersion": "4.1.0",
+          "ecosystem": "NPM",
+          "version": "0.0.1",
           "githubOrg": "broofa",
           "githubRepo": "mime",
-          "githubCommit": "a3c97a312e40f6ce7157742f4b1f5fd00702422a"
+          "githubUrl": "git+https://github.com/broofa/mime.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "qs",
-          "packageVersion": "6.9.9",
+          "ecosystem": "NPM",
+          "version": "0.0.6",
           "githubOrg": "ljharb",
           "githubRepo": "qs",
-          "githubCommit": "05b0e9cf2251a66cb68a2823cba930d184267fc9"
+          "githubCommit": "e35b2c8f37b46efb080c607a2b6bd690eafac303",
+          "githubTag": "v0.0.6",
+          "githubUrl": "git+https://github.com/ljharb/qs.git",
+          "source": "build_file:package.json"
         }
       ]
     },
