@@ -29323,7 +29323,39 @@
         "aggregate/ast/bf596dc0239aad85198ebfe70921fd79a1cdedc9.nq.gz"
       ],
       "lsp": "aggregate/lsp/bf596dc0239aad85198ebfe70921fd79a1cdedc9.nq.gz",
-      "repolex": "aggregate/repolex/bf596dc0239aad85198ebfe70921fd79a1cdedc9.nq.gz"
+      "repolex": "aggregate/repolex/bf596dc0239aad85198ebfe70921fd79a1cdedc9.nq.gz",
+      "dep": "dep/bf596dc0239aad85198ebfe70921fd79a1cdedc9.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "connect",
+          "ecosystem": "NPM",
+          "version": "1.1.0 < 2.0.0",
+          "githubOrg": "senchalabs",
+          "githubRepo": "connect",
+          "githubUrl": "git+https://github.com/senchalabs/connect.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "mime",
+          "ecosystem": "NPM",
+          "version": "0.0.1",
+          "githubOrg": "broofa",
+          "githubRepo": "mime",
+          "githubUrl": "git+https://github.com/broofa/mime.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "qs",
+          "ecosystem": "NPM",
+          "version": "0.0.6",
+          "githubOrg": "ljharb",
+          "githubRepo": "qs",
+          "githubCommit": "e35b2c8f37b46efb080c607a2b6bd690eafac303",
+          "githubTag": "v0.0.6",
+          "githubUrl": "git+https://github.com/ljharb/qs.git",
+          "source": "build_file:package.json"
+        }
+      ]
     },
     {
       "commit": "798d255ba63e9e35cbdeff95a008a982d10f07d3",
