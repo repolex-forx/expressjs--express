@@ -38538,7 +38538,139 @@
         "aggregate/ast/0ac1ba527e75e700698bcb4dad5905cea80e29f5.nq.gz"
       ],
       "lsp": "aggregate/lsp/0ac1ba527e75e700698bcb4dad5905cea80e29f5.nq.gz",
-      "repolex": "aggregate/repolex/0ac1ba527e75e700698bcb4dad5905cea80e29f5.nq.gz"
+      "repolex": "aggregate/repolex/0ac1ba527e75e700698bcb4dad5905cea80e29f5.nq.gz",
+      "dep": "dep/0ac1ba527e75e700698bcb4dad5905cea80e29f5.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "connect",
+          "ecosystem": "NPM",
+          "version": "1.x",
+          "githubOrg": "senchalabs",
+          "githubRepo": "connect",
+          "githubUrl": "git+https://github.com/senchalabs/connect.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "mime",
+          "ecosystem": "NPM",
+          "version": "1.2.4",
+          "githubOrg": "broofa",
+          "githubRepo": "mime",
+          "githubUrl": "git+https://github.com/broofa/mime.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "qs",
+          "ecosystem": "NPM",
+          "version": "0.4.x",
+          "githubOrg": "ljharb",
+          "githubRepo": "qs",
+          "githubUrl": "git+https://github.com/ljharb/qs.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "mkdirp",
+          "ecosystem": "NPM",
+          "version": "0.3.0",
+          "githubOrg": "isaacs",
+          "githubRepo": "node-mkdirp",
+          "githubCommit": "793be5e22b61e65a6dd7f979643ea3f19c817721",
+          "githubTag": "0.3.0",
+          "githubUrl": "git+https://github.com/isaacs/node-mkdirp.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "ejs",
+          "ecosystem": "NPM",
+          "version": "0.4.2",
+          "githubOrg": "mde",
+          "githubRepo": "ejs",
+          "githubUrl": "git://github.com/mde/ejs.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "expresso",
+          "ecosystem": "NPM",
+          "version": "0.9.2",
+          "githubOrg": "visionmedia",
+          "githubRepo": "expresso",
+          "githubUrl": "git://github.com/visionmedia/expresso.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "hamljs",
+          "ecosystem": "NPM",
+          "version": "0.6.x",
+          "githubOrg": "visionmedia",
+          "githubRepo": "haml.js",
+          "githubUrl": "git://github.com/visionmedia/haml.js.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "jade",
+          "ecosystem": "NPM",
+          "version": "0.16.2",
+          "githubOrg": "jadejs",
+          "githubRepo": "jade",
+          "githubCommit": "296be5d7941db1518f325d8b37542e7fb3124a4d",
+          "githubTag": "0.16.2",
+          "githubUrl": "git://github.com/jadejs/jade.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "stylus",
+          "ecosystem": "NPM",
+          "version": "0.13.0",
+          "githubOrg": "stylus",
+          "githubRepo": "stylus",
+          "githubCommit": "443ccb7e69317968615df83d9db6b9592f9323c5",
+          "githubTag": "0.13.0",
+          "githubUrl": "git://github.com/stylus/stylus.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "should",
+          "ecosystem": "NPM",
+          "version": "0.3.2",
+          "githubOrg": "shouldjs",
+          "githubRepo": "should.js",
+          "githubCommit": "e20ce58abbaa57dff5afe01b87dfdea8c867cfb6",
+          "githubTag": "0.3.2",
+          "githubUrl": "git+https://github.com/shouldjs/should.js.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "express-messages",
+          "ecosystem": "NPM",
+          "version": "0.0.2",
+          "githubOrg": "expressjs",
+          "githubRepo": "express-messages",
+          "githubCommit": "e39a162878978d2735114245c980be3a7829480e",
+          "githubTag": "0.0.2",
+          "githubUrl": "git+https://github.com/expressjs/express-messages.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "node-markdown",
+          "ecosystem": "NPM",
+          "version": "0.0.1",
+          "githubOrg": "andris9",
+          "githubRepo": "node-markdown",
+          "githubUrl": "git://github.com/andris9/node-markdown.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "connect-redis",
+          "ecosystem": "NPM",
+          "version": "0.0.1",
+          "githubOrg": "tj",
+          "githubRepo": "connect-redis",
+          "githubCommit": "6476e57bcac185bc266adc1ab3b4698801649194",
+          "githubTag": "0.0.1",
+          "githubUrl": "git+ssh://git@github.com/tj/connect-redis.git",
+          "source": "build_file:package.json"
+        }
+      ]
     },
     {
       "commit": "3ab30210a26368812c2f08af7f737f3c9b740985",
