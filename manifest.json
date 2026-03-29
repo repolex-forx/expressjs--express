@@ -27488,17 +27488,23 @@
       "dependencies": [
         {
           "packageName": "connect",
-          "packageVersion": "3.7.0",
+          "ecosystem": "NPM",
+          "version": "0.5.0 < 1.0.0",
           "githubOrg": "senchalabs",
           "githubRepo": "connect",
-          "githubCommit": "fa8916e6350e01262e86ccee82f490c65e04c728"
+          "githubUrl": "git+https://github.com/senchalabs/connect.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "qs",
-          "packageVersion": "6.9.9",
+          "ecosystem": "NPM",
+          "version": "0.0.5",
           "githubOrg": "ljharb",
           "githubRepo": "qs",
-          "githubCommit": "05b0e9cf2251a66cb68a2823cba930d184267fc9"
+          "githubCommit": "180086ef2d4735db7faf54a7098972a70b784e82",
+          "githubTag": "v0.0.5",
+          "githubUrl": "git+https://github.com/ljharb/qs.git",
+          "source": "build_file:package.json"
         }
       ]
     },

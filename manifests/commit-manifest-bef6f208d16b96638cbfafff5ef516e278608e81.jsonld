@@ -42,10 +42,46 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 1062930
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/bef6f208d16b96638cbfafff5ef516e278608e81.nq.gz",
+      "repolex:graphFileSize": 435221
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/bef6f208d16b96638cbfafff5ef516e278608e81.nq.gz",
+      "repolex:graphFileSize": 3646157
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/bef6f208d16b96638cbfafff5ef516e278608e81.nq.gz",
+      "repolex:graphFileSize": 65
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "dep",
+      "repolex:graphFilePath": "dep/bef6f208d16b96638cbfafff5ef516e278608e81.nq.gz",
+      "repolex:graphFileSize": 462
     }
   ],
   "repolex:parseStatus": "parsed",
   "repolex:parsedAt": "2026-03-29T15:35:21.585871+00:00",
   "repolex:parserVersion": "0.1.0",
-  "git:tagName": "1.0.9"
+  "git:tagName": "1.0.9",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/senchalabs/connect",
+      "repolex:packageName": "connect"
+    },
+    {
+      "@id": "https://repolex.ai/r/ljharb/qs",
+      "repolex:packageName": "qs",
+      "git:hexsha": "180086ef2d4735db7faf54a7098972a70b784e82",
+      "git:tagName": "v0.0.5"
+    }
+  ]
 }
