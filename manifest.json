@@ -72845,199 +72845,311 @@
       "dependencies": [
         {
           "packageName": "basic-auth",
-          "packageVersion": "2.0.1",
+          "ecosystem": "NPM",
+          "version": "1.0.0",
           "githubOrg": "jshttp",
           "githubRepo": "basic-auth",
-          "githubCommit": "bde0bac8ba99f5d461a339cb6b8a598a0586d699"
+          "githubCommit": "cf2233d5daf66eecf58c074120c176e30207f703",
+          "githubTag": "v1.0.0",
+          "githubUrl": "git+https://github.com/jshttp/basic-auth.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "connect",
-          "packageVersion": "3.7.0",
+          "ecosystem": "NPM",
+          "version": "2.29.2",
           "githubOrg": "senchalabs",
           "githubRepo": "connect",
-          "githubCommit": "fa8916e6350e01262e86ccee82f490c65e04c728"
+          "githubCommit": "79fdcdf683e8b633cd4c2052341a1e734c5d6be8",
+          "githubTag": "2.29.2",
+          "githubUrl": "git+https://github.com/senchalabs/connect.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "content-disposition",
-          "packageVersion": "1.0.1",
+          "ecosystem": "NPM",
+          "version": "0.5.0",
           "githubOrg": "jshttp",
           "githubRepo": "content-disposition",
-          "githubCommit": "b56faefa036f1f78502b978bcb716aa75190eaa4"
+          "githubCommit": "f3c915f0c9d9f5ec79713dba24c8c6181b73305d",
+          "githubTag": "v0.5.0",
+          "githubUrl": "git+https://github.com/jshttp/content-disposition.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "content-type",
-          "packageVersion": "1.0.5",
+          "ecosystem": "NPM",
+          "version": "1.0.1",
           "githubOrg": "jshttp",
           "githubRepo": "content-type",
-          "githubCommit": "6115a4064e4dfd9845241c3f89c233ee2423deeb"
+          "githubCommit": "3aa58f9c5a358a3634b8601602177888b4a477d8",
+          "githubTag": "v1.0.1",
+          "githubUrl": "git+https://github.com/jshttp/content-type.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "commander",
-          "packageVersion": "9.5.0",
+          "ecosystem": "NPM",
+          "version": "2.6.0",
           "githubOrg": "tj",
           "githubRepo": "commander.js",
-          "githubCommit": "7a5bd0626a5a2e6353052de0a6985480e51bbb9b"
+          "githubCommit": "c6807fd154dd3b7ce8756f141f8d3acfcc74be60",
+          "githubTag": "v2.6.0",
+          "githubUrl": "git+https://github.com/tj/commander.js.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "cookie",
-          "packageVersion": "1.1.1",
+          "ecosystem": "NPM",
+          "version": "0.1.2",
           "githubOrg": "jshttp",
           "githubRepo": "cookie",
-          "githubCommit": "1b89eec4e33256ac31962f4c0d6e711fff478803"
+          "githubCommit": "244dabd7bc3e2d3482b121c816b4b4e034822b6f",
+          "githubTag": "v0.1.2",
+          "githubUrl": "git+https://github.com/jshttp/cookie.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "cookie-signature",
-          "packageVersion": "1.2.2",
+          "ecosystem": "NPM",
+          "version": "1.0.6",
           "githubOrg": "visionmedia",
           "githubRepo": "node-cookie-signature",
-          "githubCommit": "b7bd4cb9500bfa5e696143f51d61e5f24f7a625d"
+          "githubCommit": "391b56cf44d88c493491b7e3fc53208cfb976d2a",
+          "githubTag": "1.0.6",
+          "githubUrl": "git+https://github.com/visionmedia/node-cookie-signature.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "debug",
-          "packageVersion": "4.4.3",
+          "ecosystem": "NPM",
+          "version": "2.2.0",
           "githubOrg": "debug-js",
           "githubRepo": "debug",
-          "githubCommit": "6b2c5fbdb7d414483d9e306ef234acb4cd7ea67c"
+          "githubCommit": "b38458422b5aa8aa6d286b10dfe427e8a67e2b35",
+          "githubTag": "2.2.0",
+          "githubUrl": "git://github.com/debug-js/debug.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "depd",
-          "packageVersion": "2.0.0",
+          "ecosystem": "NPM",
+          "version": "1.0.1",
           "githubOrg": "dougwilson",
           "githubRepo": "nodejs-depd",
-          "githubCommit": "6d59c85d093092e65ec77033576417d743079fa0"
+          "githubCommit": "769e0f8108463c35a6937a9d634ab19fee45100a",
+          "githubTag": "v1.0.1",
+          "githubUrl": "git+https://github.com/dougwilson/nodejs-depd.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "escape-html",
-          "packageVersion": "1.0.3",
+          "ecosystem": "NPM",
+          "version": "1.0.1",
           "githubOrg": "component",
           "githubRepo": "escape-html",
-          "githubCommit": "7ac2ea3977fcac3d4c5be8d2a037812820c65f28"
+          "githubCommit": "d51fd386855557e3e604d3f97fe476e6920df5e8",
+          "githubTag": "v1.0.1",
+          "githubUrl": "https://github.com/component/escape-html",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "etag",
-          "packageVersion": "1.8.1",
+          "ecosystem": "NPM",
+          "version": "1.5.1",
           "githubOrg": "jshttp",
           "githubRepo": "etag",
-          "githubCommit": "9b1e3e41df31cda4080833c187120b91a7ce8327"
+          "githubCommit": "27335e2265388109e50a9f037452081dc8a8260f",
+          "githubTag": "v1.5.1",
+          "githubUrl": "git+https://github.com/jshttp/etag.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "fresh",
-          "packageVersion": "2.0.0",
+          "ecosystem": "NPM",
+          "version": "0.2.4",
           "githubOrg": "jshttp",
           "githubRepo": "fresh",
-          "githubCommit": "f185ef1376c0337d366f9e35bda92b053983fd81"
+          "githubCommit": "9fba6f19140650a79ec9692b3ae02c6d706410be",
+          "githubTag": "v0.2.4",
+          "githubUrl": "git+https://github.com/jshttp/fresh.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "merge-descriptors",
-          "packageVersion": "2.0.0",
+          "ecosystem": "NPM",
+          "version": "1.0.0",
           "githubOrg": "sindresorhus",
           "githubRepo": "merge-descriptors",
-          "githubCommit": "b497f611ec85031e00c2f3cdbb327a550028a7bf"
+          "githubCommit": "81d7a3c14099884c391bd237d7d8edf23c6d6f18",
+          "githubTag": "1.0.0",
+          "githubUrl": "git+https://github.com/sindresorhus/merge-descriptors.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "methods",
-          "packageVersion": "1.1.2",
+          "ecosystem": "NPM",
+          "version": "1.1.1",
           "githubOrg": "jshttp",
           "githubRepo": "methods",
-          "githubCommit": "25d257d913f1b94bd2d73581521ff72c81469140"
+          "githubCommit": "6293c6b27c5fb963acf67a347af80ad2ebd7247f",
+          "githubTag": "v1.1.1",
+          "githubUrl": "https://github.com/jshttp/methods",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "mkdirp",
-          "packageVersion": "3.0.1",
+          "ecosystem": "NPM",
+          "version": "0.5.0",
           "githubOrg": "isaacs",
           "githubRepo": "node-mkdirp",
-          "githubCommit": "6fc29774a008f41d96b34523d6aae543ecb46cd1"
+          "githubCommit": "b98bedf92798ed73c87413eaf413d01dbe094a09",
+          "githubTag": "0.5.0",
+          "githubUrl": "git+https://github.com/isaacs/node-mkdirp.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "parseurl",
-          "packageVersion": "1.3.3",
+          "ecosystem": "NPM",
+          "version": "1.3.0",
           "githubOrg": "pillarjs",
           "githubRepo": "parseurl",
-          "githubCommit": "0a5323370b02f4eff4069472d1e96a0094aef621"
+          "githubCommit": "03b7ccca240e2bef5df6c25797e99175d28fb2cb",
+          "githubTag": "1.3.0",
+          "githubUrl": "git+https://github.com/pillarjs/parseurl.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "proxy-addr",
-          "packageVersion": "2.0.7",
+          "ecosystem": "NPM",
+          "version": "1.0.8",
           "githubOrg": "jshttp",
           "githubRepo": "proxy-addr",
-          "githubCommit": "1cdd2f78e0fcc23ceae4723e6b837345c2499772"
+          "githubCommit": "b32d9bda51c92f67a5c2c7b4f81971dbef41783c",
+          "githubTag": "v1.0.8",
+          "githubUrl": "git+https://github.com/jshttp/proxy-addr.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "range-parser",
-          "packageVersion": "1.2.1",
+          "ecosystem": "NPM",
+          "version": "1.0.2",
           "githubOrg": "jshttp",
           "githubRepo": "range-parser",
-          "githubCommit": "0f56ff8d4b579599f9f225f0a19f4ef1628c585f"
+          "githubCommit": "ae23b02ce705b56e7f7c48e832d41fa710227ecc",
+          "githubTag": "v1.0.2",
+          "githubUrl": "git+https://github.com/jshttp/range-parser.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "send",
-          "packageVersion": "1.2.1",
+          "ecosystem": "NPM",
+          "version": "0.12.3",
           "githubOrg": "pillarjs",
           "githubRepo": "send",
-          "githubCommit": "096a6148bea0b82ca974fe0016e6eac280869249"
+          "githubCommit": "db460d914de7114d267a55e2a2d60f869c8ddd33",
+          "githubTag": "0.12.3",
+          "githubUrl": "git+https://github.com/pillarjs/send.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "utils-merge",
-          "packageVersion": "1.0.1",
+          "ecosystem": "NPM",
+          "version": "1.0.0",
           "githubOrg": "jaredhanson",
           "githubRepo": "utils-merge",
-          "githubCommit": "680a65305312a990751fd32b83bd2c12d67809d4"
+          "githubCommit": "80f8533cde3039ff68efead269c41fb5f1a0e59b",
+          "githubTag": "v1.0.0",
+          "githubUrl": "git://github.com/jaredhanson/utils-merge.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "vary",
-          "packageVersion": "1.1.2",
+          "ecosystem": "NPM",
+          "version": "1.0.0",
           "githubOrg": "jshttp",
           "githubRepo": "vary",
-          "githubCommit": "4067e646233fbc8ec9e7a9cd78d6f063c6fdc17e"
+          "githubCommit": "56acecd9fa20888132563b00576625ea02a69a35",
+          "githubTag": "v1.0.0",
+          "githubUrl": "git+https://github.com/jshttp/vary.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "connect-redis",
-          "packageVersion": "9.0.0",
+          "ecosystem": "NPM",
+          "version": "1.5.0",
           "githubOrg": "tj",
           "githubRepo": "connect-redis",
-          "githubCommit": "473bc4abdb5102e89482dc4904e3099009c7be1a"
+          "githubCommit": "c11fc170930734d86f6a61f16c6a683f9ca85bf5",
+          "githubTag": "1.5.0",
+          "githubUrl": "git+ssh://git@github.com/tj/connect-redis.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "ejs",
-          "packageVersion": "5.0.1",
+          "ecosystem": "NPM",
+          "version": "2.3.1",
           "githubOrg": "mde",
           "githubRepo": "ejs",
-          "githubCommit": "f9ab0b7d9437de643f1c63896271307708810a77"
+          "githubCommit": "17ce07dc23f1aa3b8667d2c76017ed422fceb301",
+          "githubTag": "v2.3.1",
+          "githubUrl": "git://github.com/mde/ejs.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "istanbul",
-          "packageVersion": "1.1.0-alpha.1",
+          "ecosystem": "NPM",
+          "version": "0.3.9",
           "githubOrg": "gotwarlost",
           "githubRepo": "istanbul",
-          "githubCommit": "eecc799dc3a78db50a39b1f51f31c1517858c3ae"
+          "githubCommit": "83e6abd6a3e094418bb8b88d7b58242fc5145fe4",
+          "githubTag": "v0.3.9",
+          "githubUrl": "git://github.com/gotwarlost/istanbul.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "marked",
-          "packageVersion": "9.1.6",
+          "ecosystem": "NPM",
+          "version": "0.3.3",
           "githubOrg": "markedjs",
           "githubRepo": "marked",
-          "githubCommit": "86e0eb5485a950b5ddbe542c1c239245f15e3415"
+          "githubCommit": "2b5802f258c5e23e48366f2377fbb4c807f47658",
+          "githubTag": "v0.3.3",
+          "githubUrl": "git://github.com/markedjs/marked.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "mocha",
-          "packageVersion": "9.2.2",
+          "ecosystem": "NPM",
+          "version": "2.2.5",
           "githubOrg": "mochajs",
           "githubRepo": "mocha",
-          "githubCommit": "24b5243514fee35bb78cf81d7fa541112a566a22"
+          "githubCommit": "ebe9ceab96fc1a05d4c89b13c23824b94b01ec43",
+          "githubTag": "2.2.5",
+          "githubUrl": "git+https://github.com/mochajs/mocha.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "should",
-          "packageVersion": "9.0.2",
+          "ecosystem": "NPM",
+          "version": "6.0.1",
           "githubOrg": "shouldjs",
           "githubRepo": "should.js",
-          "githubCommit": "cd73f3f6f87abad5e11519250006d1d3b7a6934b"
+          "githubCommit": "db8e47edc84f02be41c0ad2ed7eaa172a9578adc",
+          "githubTag": "6.0.1",
+          "githubUrl": "git+https://github.com/shouldjs/should.js.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "supertest",
-          "packageVersion": "7.2.2",
+          "ecosystem": "NPM",
+          "version": "1.0.1",
           "githubOrg": "ladjs",
           "githubRepo": "supertest",
-          "githubCommit": "HEAD"
+          "githubCommit": "4f73760055b736025eeb098c49864269b52ea75f",
+          "githubTag": "1.0.1",
+          "githubUrl": "git+https://github.com/ladjs/supertest.git",
+          "source": "build_file:package.json"
         }
       ]
     },
